@@ -1,0 +1,27 @@
+css
+@charset "UTF-8";
+
+body {
+   
+    background-color: #c5bfbf59;
+    border: 5px solid rgba(0, 0, 0, 0.26);
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parent {
+    display: grid;
+    grid-template: auto 1fr auto / auto 1fr auto;
+    background-color: slategrey;
+  }
+.parent {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    
+  }
+
+ 
+  
+
+
